@@ -60,6 +60,14 @@ switch (val) {
         memberF.textContent = 'MỸ DUNG';
         memberB.textContent = 'MỸ DUNG';
         break;
+    case '14':
+        memberF.textContent = 'BẢO NGÂN';
+        memberB.textContent = 'BẢO NGÂN';
+        break;
+    case '15':
+        memberF.textContent = 'THANH THẢO';
+        memberB.textContent = 'THANH THẢO';
+        break;
     default:
         memberF.textContent = 'BẠN';
         memberB.textContent = 'BẠN';
